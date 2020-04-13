@@ -36,3 +36,4 @@ lqg_cartpend_sim.slx — simulink model for LQG
 cartpend_sim.*       — system block for inverted pendulum on cart
 
 Luu Van Luc
+luclv
